@@ -2,7 +2,8 @@
 
 Real-time Pub/Sub system using Redis (key-value store): https://redis.io/download
 
-![image.png](attachment:cfaa5a5c-0402-41fd-a5f9-c52d37444c7e.png)
+![image.png](https://dashbird.io/wp-content/uploads/2021/01/pub-sub-messaging.png)
+*Source: https://dashbird.io/wp-content/uploads/2021/01/pub-sub-messaging.png*
 
 ## library
 
