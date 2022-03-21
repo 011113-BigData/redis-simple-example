@@ -1,1 +1,0 @@
-# redis-simple-example
